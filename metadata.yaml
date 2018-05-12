@@ -1,4 +1,8 @@
 _repo: Racconti-politici_48576
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48576-h/images/cover.jpg
 creator:
   author:
     agent_name: Ghislanzoni, Antonio
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7044
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Ghislanzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48576#Racconti-politici
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2015-03-24'
 gutenberg_type: Text
